@@ -1,0 +1,7 @@
+{
+    "task_name": "gsm8k",
+    "task_type": "math",
+    "data_path": "/Self-Correction-Benchmark/dataset/GSM8K",
+    "data_split": "test",
+    "data_num": 100
+}

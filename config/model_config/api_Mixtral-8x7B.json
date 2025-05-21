@@ -1,0 +1,17 @@
+{
+    "model_info": {
+        "provider": "openai",
+        "name": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "model_method": "api"
+    },
+    "api_key_info": {
+        "api_keys": "",
+        "api_url": "https://api.deepinfra.com/v1/openai"
+    },
+    "params": {
+        "temperature": 0.1,
+        "seed": 100,
+        "gpus": [],
+        "max_output_tokens": 1000
+    }
+}

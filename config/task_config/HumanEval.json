@@ -1,0 +1,7 @@
+{
+    "task_name": "HumanEval",
+    "task_type": "coding",
+    "data_path": "/Self-Correction-Benchmark/dataset/HumanEval",
+    "data_split": "test",
+    "data_num": 100
+}

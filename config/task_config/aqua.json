@@ -1,0 +1,7 @@
+{
+    "task_name": "aqua",
+    "task_type": "math",
+    "data_path": "/Self-Correction-Benchmark/dataset/AQUA",
+    "data_split": "test",
+    "data_num": 100
+}
