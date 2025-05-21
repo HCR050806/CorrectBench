@@ -1,0 +1,7 @@
+{
+    "task_name": "CSQA",
+    "task_type": "Commonsense",
+    "data_path": "/Self-Correction-Benchmark/dataset/CSQA",
+    "data_split": "train",
+    "data_num": 100
+}

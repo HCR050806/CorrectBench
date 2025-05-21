@@ -1,0 +1,17 @@
+{
+    "model_info": {
+        "provider": "openai",
+        "name": "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+        "model_method": "api"
+    },
+    "api_key_info": {
+        "api_keys": "",
+        "api_url": "https://api.deepinfra.com/v1/openai"
+    },
+    "params": {
+        "temperature": 0.1,
+        "seed": 100,
+        "gpus": [],
+        "max_output_tokens": 500
+    }
+}
