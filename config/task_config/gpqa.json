@@ -1,7 +1,0 @@
-{
-    "task_name": "GPQA",
-    "task_type": "Science",
-    "data_path": "/Self-Correction-Benchmark/dataset/GPQA/data/gpqa_extended.csv",
-    "data_split": "train",
-    "data_num": 100
-}

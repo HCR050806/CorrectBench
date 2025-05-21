@@ -1,7 +1,0 @@
-{
-    "task_name": "MATH",
-    "task_type": "math",
-    "data_path": "/Self-Correction-Benchmark/dataset/MATH",
-    "data_split": "train",
-    "data_num": 100
-}

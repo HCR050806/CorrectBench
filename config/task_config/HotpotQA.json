@@ -1,7 +1,0 @@
-{
-    "task_name": "hotpotQA",
-    "task_type": "Commonsense",
-    "data_path": "/Self-Correction-Benchmark/dataset/HotPotQA/train.json",
-    "data_split": "validation",
-    "data_num": 100
-}
